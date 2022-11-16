@@ -1,3 +1,3 @@
 # Project SDU
-Kahoot in Java FX
-Some govno code exists
+Kahoot in Java FX.
+Shit code. Used multi-threading, Server(ip connection for player).
