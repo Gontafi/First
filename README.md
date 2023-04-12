@@ -8,7 +8,7 @@ MY FIRST PROJECT in github and first commit to github alsoXD
 
 A lot of (~~govno~~)code. Needs refactoring and fixing some bugs.
 
-JavaFX is **painful**, when there is no such bots like chatGPT. I made this project in 24 hours, so do not beat me please))
+JavaFX is **painful**. I made this project in 24 hours, so do not beat me please))
 
 I recommend to **not use** this code.
 
