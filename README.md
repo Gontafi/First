@@ -16,7 +16,7 @@ Also, I don't have project creditals.
 
 >Если вы первый курс и учитесь в СДУ, мне вас жаль. Много страдании и боли было испытано мною при разработке этого проекта. Но проект был закончен к дедлайну.
 
-## If you want to run, follow this steps:
+## If you want to execute project, follow this steps:
 
   1.run ```QuizMaker.java```
   
